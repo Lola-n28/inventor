@@ -3,3 +3,6 @@ Key
 Laptop
 Microphone
 Клавиатура
+Флаг
+Сервер
+Bag
