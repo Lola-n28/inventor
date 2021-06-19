@@ -6,3 +6,4 @@ Microphone
 Флаг
 Сервер
 Bag
+fax
